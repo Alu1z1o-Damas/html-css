@@ -1,0 +1,16 @@
+body {
+    background-color: #5e5a5a;
+}
+.container {
+    display: flex;
+    background-color: black;
+    gap: 10px;
+    height: 600px;
+}
+
+.item {
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+
+}
